@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StartButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controls.cs" Line="79" Column="2" />
+      <File FileName="Assets/Scripts/CameraView.cs" Line="21" Column="3" />
+      <File FileName="Assets/Scripts/FloorSpawnManager.cs" Line="16" Column="3" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="7" Column="13" />
+      <File FileName="Assets/Scripts/StartButton.cs" Line="12" Column="41" />
+      <File FileName="Assets/Scripts/StartLevel.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
